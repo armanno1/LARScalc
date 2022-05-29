@@ -15,7 +15,7 @@
         <h1 class="font-serif text-2xl font-bold text-grey-800 md:text-3xl py-2 px-1 bg-white">LARS* Score Calculator</h1>
     </div>
     <div class="border border-gray-400 bg-white py-4 pt-0 rounded-2xl pb-0 sm:pb-4  overflow-hidden">
-        <div class="text-sm text-center my-6 text-gray-500">Emmertsen KJ, Laurberg S. Low anterior resection syndrome score: development and validation of a symptom-based scoring system for bowel dysfunction after low anterior resection for rectal cancer. Ann Surg. 2012 May;255(5):922-8.</div>
+        <div class="text-sm text-center my-6 text-gray-500 px-4">Emmertsen KJ, Laurberg S. Low anterior resection syndrome score: development and validation of a symptom-based scoring system for bowel dysfunction after low anterior resection for rectal cancer. Ann Surg. 2012 May;255(5):922-8.</div>
         
         <!-- q1 -->
         <div class="flex flex-col sm:flex-row bg-slate-100 p-4 mx-[-16px] px-6 sm:px-10 border-t">
